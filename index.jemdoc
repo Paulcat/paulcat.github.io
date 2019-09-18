@@ -7,13 +7,14 @@ e-mail: pcatala \[@\] dma \[dot\] ens \[dot\] fr
 
 == Publications
 
-=== Journals
+=== Journal papers
 
 - P. Catala, V. Duval, G. Peyré. *A Low-Rank Approach to Off-the-Grid Sparse Super-Resolution.* Preprint, SIAM J. Imaging. Sc. \[[https://epubs.siam.org/doi/pdf/10.1137/19M124071X?casa_token=aA8Ev9Ry5q0AAAAA:qb3fp8uU_sR_hih9YC_CTi2F77z3xUE4rH4Cvecfkc0FDCq6hZGvb6dk3TL0XV7z47HaVZGI6VNG pdf]\]
 
 === Conference papers
+- P. Catala, V. Duval, G. Peyré. *Off-the-Grid Wasserstein Group Lasso* [https://fgs-2019.sciencesconf.org/ FGS, 2019]. \[[files/slides/fgs-19.pdf slides]\]
 
-- P. Catala, V. Duval, G. Peyré. *A Low-Rank Approach to Off-the-Gird Sparse Super-Resolution.* [https://sites.google.com/view/itwist18 ITWIST, 2018]. \[[files/papers/itwist-18.pdf pdf]\] \[[files/slides/itwist-18.pdf slides]\] 
+- P. Catala, V. Duval, G. Peyré. *A Low-Rank Approach to Off-the-Grid Sparse Super-Resolution.* [https://sites.google.com/view/itwist18 ITWIST, 2018]. \[[files/papers/itwist-18.pdf pdf]\] \[[files/slides/itwist-18.pdf slides]\] 
 
 - P. Catala, V. Duval, G. Peyré. *Déconvolution Parcimonieuse Sans Grille: Une Méthode de Faible Rang.* GRETSI, 2017. \[[https://hal.archives-ouvertes.fr/hal-01866617/document pdf]\] \[[files/slides/gretsi-17.pdf slides]\]
 
