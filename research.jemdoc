@@ -4,14 +4,13 @@
 
 - 2019
 -- P. Catala, V. Duval, G. Peyré. *Wasserstein Group-Lasso sans Grille.* [http://gretsi.fr/colloque2019/ GRETSI, 2019] \[[files/pdf/gretsi-19.pdf pdf]] \[[files/slides/gretsi-19.pdf slides]]
--- P. Catala, V. Duval, G. Peyré. *Off-the-Grid Wasserstein Group Lasso.* [https://fgs-2019.sciencesconf.org/ FGS, 2019]. \[[files/slides/fgs-19.pdf slides]\]
 
 - 2018
 -- P. Catala, V. Duval, G. Peyré. *A Low-Rank Approach to Off-the-Grid Sparse Super-Resolution.* SIAM J. Imaging. Sc. \[[https://epubs.siam.org/doi/pdf/10.1137/19M124071X?casa_token=aA8Ev9Ry5q0AAAAA:qb3fp8uU_sR_hih9YC_CTi2F77z3xUE4rH4Cvecfkc0FDCq6hZGvb6dk3TL0XV7z47HaVZGI6VNG pdf]\] \[[https://github.com/Paulcat/Super-Resolution-SDP code]\]
 
 
 == Talks
--- *Off-the-Grid Wasserstein Group Lasso.* [https://fgs-2019.sciencesconf.org/ FGS, 2019]. \[[files/slides/fgs-19.pdf slides]\]
--- *A Low-Rank Approach to Off-the-Grid Sparse Super-Resolution.* [https://sites.google.com/view/itwist18 ITWIST, 2018]. \[[files/papers/itwist-18.pdf pdf]\] \[[files/slides/itwist-18.pdf slides]\]
+- *Off-the-Grid Wasserstein Group Lasso.* [https://fgs-2019.sciencesconf.org/ FGS, 2019]. \[[files/slides/fgs-19.pdf slides]\]
+- *A Low-Rank Approach to Off-the-Grid Sparse Super-Resolution.* [https://sites.google.com/view/itwist18 ITWIST, 2018]. \[[files/papers/itwist-18.pdf pdf]\] \[[files/slides/itwist-18.pdf slides]\]
 
 
