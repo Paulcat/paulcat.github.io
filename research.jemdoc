@@ -1,6 +1,14 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 
 == Papers
+- 2022
+-- P.Catala, M. Hockmann, S. Kunis, M. Wageringel.
+	*Approximation and Interpolation of Singular Measures by Trigonometric Polynomials.* Submitted
+	\[[https://arxiv.org/abs/2203.10531v2 arXiv]]
+- 2020
+-- P. Catala.
+	*Positive Semidefinite Relaxations for Imaging Science.* PhD Thesis
+	\[[https://hal.archives-ouvertes.fr/tel-03131464 manuscript]]
 - 2019
 -- P. Catala, V. Duval, G. Peyré.
 	*Wasserstein Group-Lasso sans Grille.*
@@ -12,7 +20,10 @@
 	\[[https://github.com/Paulcat/Super-Resolution-SDP code]\]
 
 
-== Talks
+== Selected Talks
+- *Approximating Singular Measures on the Torus with Moment Polynomials.* [https://cs2022.sciencesconf.org Curves and Surfaces, 2022] \[[files/slides/cs-22.pdf slides]\]
+- *Estimating Arbitrary Measures on the Torus from Moments.* [https://siam.org/conferences/cm/conference/is22 SIAM IS22, 2022] \[[files/slides/siam-22.pdf slides]\]
+- *Towards a FFT for Measures.* [https://otml2021.github.io/ OTML Workshop, NeurIPS, 2021]
 - *Off-the-Grid Wasserstein Group Lasso.* [https://fgs-2019.sciencesconf.org/ FGS, 2019]. \[[files/papers/fgs-19.pdf pdf]\] \[[files/slides/fgs-19.pdf slides]\]
 - *A Low-Rank Approach to Off-the-Grid Sparse Super-Resolution.* [https://sites.google.com/view/itwist18 ITWIST, 2018]. \[[files/papers/itwist-18.pdf pdf]\] \[[files/slides/itwist-18.pdf slides]\]
 
