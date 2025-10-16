@@ -1,17 +1,18 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
 == Paul Catala
 
-I am an associate professor (maître de conférences) at CRAN
+I am an associate professor (maître de conférences) at CRAN (Centre de Recherche en Automatique de Nancy) and Université de Lorraine, part of the [cran-simul.github.io SiMul] and [www.cran.univ-lorraine.fr/departements/biosis/photodiag/ PhotoDiag] teams. I work on optimisation, moment-SoS hierarchies and optimal transport applied to inverse problems in image processing. 
 
-I am a postdoctoral researcher at Helmholtz Munich and TUM, working in the groups of Frank Filbir and [https://www.professoren.tum.de/krahmer-felix Felix Krahmer] on inverse problems in imaging.
+# I am a postdoctoral researcher at Helmholtz Munich and TUM, working in the groups of Frank Filbir and [https://www.professoren.tum.de/krahmer-felix Felix Krahmer] on inverse problems in imaging.
 
-Prior to that I was a post-doctoral researcher at the University of Osnabrück, working on the reconstruction of measures from moments with [https://www.mathematik.uni-osnabrueck.de/index.php?id=1948 Stefan Kunis].
+# Prior to that I was a post-doctoral researcher at the University of Osnabrück, working on the reconstruction of measures from moments with [https://www.mathematik.uni-osnabrueck.de/index.php?id=1948 Stefan Kunis].
 
-I did my PhD at ENS and Inria Paris (in the [https://team.inria.fr/mokaplan/ Mokaplan] team), under the supervision of [http://www.gpeyre.com/ Gabriel Peyré] and [https://who.rocq.inria.fr/Vincent.Duval/ Vincent Duval]. My PhD aimed at developing efficient off-the-grid algorithms for inverse problems in imaging, which involved in particular continuous sparse optimization, moment-SoS hierarchies and Fourier analysis.
+# I did my PhD at ENS and Inria Paris (in the [https://team.inria.fr/mokaplan/ Mokaplan] team), under the supervision of [http://www.gpeyre.com/ Gabriel Peyré] and [https://who.rocq.inria.fr/Vincent.Duval/ Vincent Duval]. My PhD aimed at developing efficient off-the-grid algorithms for inverse problems in imaging, which involved in particular continuous sparse optimization, moment-SoS hierarchies and Fourier analysis.
 
-The manuscript of my thesis may be found [https://paulcat.github.io/files/Thesis_PaulCatala.pdf here]
+# The manuscript of my thesis may be found [https://paulcat.github.io/files/Thesis_PaulCatala.pdf here]
 
-You can find my cv [https://paulcat.github.io/files/CV.pdf here]
+# You can find my cv [https://paulcat.github.io/files/CV.pdf here]
 
-e-mail: paul.catala \[@\] helmholtz-munich \[dot\] de
+== Contact
+e-mail: paul.catala \[@\] univ-lorraine \[dot\] fr
 
