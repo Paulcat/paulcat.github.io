@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{example.html}
+# jemdoc: menu{MENU}{example.html}, addcss{example.css}
 = jemdoc -- example page
 
 ~~~

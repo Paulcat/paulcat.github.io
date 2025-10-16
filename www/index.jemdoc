@@ -1,13 +1,11 @@
-# jemdoc: menu{MENU}{index.html}
-= jemdoc \+ MathJax \+ MaterializeCSS -- light markup
-[http://stanford.edu/~jacobm/ Jacob Mattingley] ([jacobm@stanford.edu]) (original jemdoc author)
-
-[http://dev10110.github.io Devansh Agrawal] ([devanshinspace@gmail.com]) (jemdoc+MathJax+Materialize)
+# jemdoc: menu{MENU}{index.html}, showsource
+= jemdoc -- light markup
+[http://stanford.edu/~jacobm/ Jacob Mattingley] ([jacobm@stanford.edu])
 
 jemdoc is a light text-based markup language designed for creating 
 websites. It takes a text file written with [example.html jemdoc markup], an
 optional configuration file and an optional menu file, and makes static websites
-that look something like this one, [http://dev10110.github.io that one] or
+that look something like this one, [http://cvxmod.net/ that one] or
 [http://www.stanford.edu/class/ee364a/ another one].
 
 jemdoc was inspired by [http://www.methods.co.nz/asciidoc/ AsciiDoc], which is a
@@ -17,12 +15,12 @@ deliberately feature poor) and has more consistent syntax.
 
 [download.html Download jemdoc.]
 
-*Screenshot*
 ~~~
-{}{img_left}{assets/cover.png}{}{}{}{}
+Version +0.7.3+ was released on 2012-11-27 with some small bug fixes.
+See the [revision.html release notes].
 ~~~
 
-[https://github.com/dev10110/jemdoc_mathjax_materialize Contribute to jemdoc\+MathJax\+Materialize on github.]
+[https://github.com/jem/jemdoc Contribute to jemdoc on github.]
 
 == Goals
 - Simple, consistent syntax.
@@ -32,7 +30,9 @@ deliberately feature poor) and has more consistent syntax.
   single css file \+ your input file {{&rarr;}} html.
 - Based on [http://www.w3.org/Style/CSS/ CSS] so formatting specifics are
   independent of jemdoc.
-- Production of clean, standards-compliant [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
+- Production of clean,
+  [http://validator.w3.org/check/referer
+  standards-compliant] [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
 - Minimal bells and whistles, but simple fallback to raw html if required.
 
 == License
