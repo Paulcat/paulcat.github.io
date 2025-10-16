@@ -1,16 +1,26 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 
 == Papers
+- 2025
+-- F. Pagginelli, F. Krahmer, P. Catala.
+   *Stable Retrieval for Unlimited Sampling via Adaptive Local Representations*, 2025 IEEE Statistical Signal Processing.
+   \[[https://doi.org/10.1109/SSP64130.2025.11073491 doi]]
+
+- 2024
+-- F. Pagginelli, P. Catala, F. Krahmer.
+   *Noisy Recovery in Unlimited Sampling via Adaptive Modulo Representations*, 2024 CoSeRa Workshop.
+   \[[https://doi.org/10.1109/CoSeRa60846.2024.10720380 doi]]
+-- P. Catala, M. Hockmann, S. Kunis, M. Wageringel.
+   *Approximation and Interpolation of Singular Measures by Trigonometric Polynomials*, Constructive Approximation, 60:405-442.
+   \[[https://doi.org/10.1007/s00365-024-09686-0 doi]]
+   \[[https://link.springer.com/content/pdf/10.1007/s00365-024-09686-0 pdf]]
+
 - 2022
 -- P.Catala, M. Hockmann, S. Kunis.
-	*Sparse Super-Resolution and its Trigonometric Approximation in the p-Wasserstein Distance.* Accpeted for publicaton, Proc. Appl. Math. Mech.
--- P. Catala, M. Hockmann, S. Kunis, M. Wageringel.
-	*Approximation and Interpolation of Singular Measures by Trigonometric Polynomials.* Submitted
-	\[[https://arxiv.org/abs/2203.10531v2 arXiv]]
-- 2020
--- P. Catala.
-	*Positive Semidefinite Relaxations for Imaging Science.* PhD Thesis
-	\[[https://hal.archives-ouvertes.fr/tel-03131464 manuscript]]
+	*Sparse Super-Resolution and its Trigonometric Approximation in the p-Wasserstein Distance.* Proc. Appl. Math. Mech., 22:e202200125 
+   \[[https://doi.org/10.1002/pamm.202200125 doi]]
+   \[[onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pamm.202200125 pdf]]
+
 - 2019
 -- P. Catala, V. Duval, G. Peyré.
 	*Wasserstein Group-Lasso sans Grille.*
@@ -20,6 +30,10 @@
 	*A Low-Rank Approach to Off-the-Grid Sparse Super-Resolution.* SIAM J. Imaging. Sc.
 	\[[https://epubs.siam.org/doi/pdf/10.1137/19M124071X?casa_token=aA8Ev9Ry5q0AAAAA:qb3fp8uU_sR_hih9YC_CTi2F77z3xUE4rH4Cvecfkc0FDCq6hZGvb6dk3TL0XV7z47HaVZGI6VNG pdf]\]
 	\[[https://github.com/Paulcat/Super-Resolution-SDP code]\]
+
+
+== PhD Thesis
+	*Positive Semidefinite Relaxations for Imaging Science*, 2020 \[[https://hal.archives-ouvertes.fr/tel-03131464 manuscript]]
 
 
 == Selected Talks
